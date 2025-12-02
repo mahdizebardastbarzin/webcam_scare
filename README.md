@@ -1,7 +1,5 @@
 # 🎥 webcam_scare — Advanced Auto‑Capture Webcam Recorder
 
-## 🇺🇸 English + 🇮🇷 فارسی (در یک فایل)
-
 ---
 
 # 🛰️ **⭐ FEATURES | ویژگی‌ها**
@@ -231,3 +229,4 @@ Copyright (c) 2025 Mahdi
 # 🖤 Thanks for using webcam_scare
 
 A fully automated multi‑capture webcam recorder.
+
